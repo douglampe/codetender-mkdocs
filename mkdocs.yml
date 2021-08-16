@@ -1,0 +1,7 @@
+site_name: MyDocSite
+site_url: https://mydocsiteurl.com/
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Component 1: components/comp1/README.md
+  - Component 2: components/comp2/README.md

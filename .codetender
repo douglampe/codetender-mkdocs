@@ -1,0 +1,19 @@
+{
+  "tokens": [
+    {
+      "pattern": "MyDocSite",
+      "replacement": "$CODETENDER_ROOT"
+    },
+    {
+      "pattern": "https://mydocsiteurl.com/",
+      "prompt": "Site URL (ex: https://mydocsiteurl.com/):"
+    },
+    {
+      "pattern": "README.codetender.md",
+      "replacement": "README.md"
+    }
+  ],
+  "ignore": [
+    "README.md"
+  ]
+}
