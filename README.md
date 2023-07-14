@@ -27,7 +27,7 @@ example uses the `readthedocs` theme so change the theme if desired.
 $ yarn global add codetender
 # or
 $ npm i -g codetender
-$ codetender new douglampe/codetender-mkdocs-site MySiteName
+$ codetender new douglampe/codetender-mkdocs path-to-new-folder
 ```
 
 ## Build Scripts
